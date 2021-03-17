@@ -10,7 +10,7 @@ blueprint:
       to obtain the node's id using the device selector."
       selector:
           device:
-            integration: ozw
+            integration: zwave
             manufacturer: Aeotec Limited
             model: ZWA003 NanoMote Quad
     ozw_node_id:
